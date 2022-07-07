@@ -1,0 +1,1063 @@
+/*@media (min-width:1201px) and (max-width:1200px){
+  .search-bar{
+    display: none;
+  }
+  .search{
+    display: none;
+  }
+  .bar1 {
+    margin-left: 15%;
+    margin-top: 2%;
+    font-size: 40px;
+  }
+  .bar2,
+  .bar3,
+  .bar4,.bar5 {
+    margin-left: 2%;
+    margin-top: 2%;
+    font-size: 40px;
+  }
+  .food1{
+    margin-left: 0%; width:55% 
+ 
+  }
+ 
+     .home {
+    margin-top: -35%;
+    font-size: 45px;
+    
+     }
+     .nature {
+      font-size: 60px;
+      
+  }
+  .eat {
+  
+    margin-top: 2%;
+    font-size: 45px;
+    
+  }
+  .nat{
+  margin-left: 50%;
+    font-size: 45px;
+    
+    }
+    .btn8{
+      font-size: 40px;
+     }
+     .trend {
+
+      margin-top: 10%;
+      font-size: 60px;
+    }
+    .be{
+      color: red;  font-size: 35px;margin-left: 38%;
+    }
+    .card{
+      height: 85%;
+    }
+    .btn {
+  margin-top: 2%;
+      margin-left: 42%;
+      font-size: 40px;
+    }
+    .a{
+      font-size: 38px;
+     }
+     .btn1{
+      font-size: 25px;
+     }
+     .column {
+      float: left;
+      width: 16%;
+      padding: 0 4px;
+      margin-left: 6%;
+      margin-top: 4%;
+    }
+    .wlc {
+      margin-top: 5%;
+      margin-left: 12%;
+      font-size: 48px;
+      
+    }
+    .img1 {
+      width: 300px;
+      height: 240px;
+      margin-top: 9%;
+      margin-left: 3%;
+    }
+    .req{
+    
+      margin-top:3%;
+      margin-left:10px;
+      font-size:30px;
+      font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    
+    .mat1{
+      margin-left:2%;font-size:26px;
+      margin-right: 17%;
+      margin-bottom: 2%;
+    }
+    .store {
+      font-size: 85px;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      margin-top: 4%;
+      margin-left: 40%;
+    }
+    .ur{
+      color: green;font-size:40px;margin-top:1%;margin-left:40%;
+    }
+    .fn{
+  margin-top: 3%;
+    }
+    .store {
+      font-size: 60px;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      margin-top: 4%;
+      margin-left: 40%;
+    }
+    .ur{
+      color: green;font-size:25px;margin-top:1%;margin-left:40%;
+    }
+    .columns,.column1,.column2 {
+      float: left;
+      width: 16%;
+      padding: 0 4px;
+      margin-left: 6%;
+      margin-top: 4%;
+    }
+    .column2 {
+      float: left;
+      width: 18%;
+      padding: 0 4px;
+      margin-left: 5%;
+      margin-top: 4%;
+    }
+    .fn{
+  margin-top: 3%;
+    }
+    .good {
+      margin-top: -45%;
+     font-size: 60px;
+    }
+    .good1 {
+      font-size: 45px;
+      margin-left: 3%;
+    }
+    .img{
+      height:60%; width:105%;margin-top: 5%;
+     
+    }
+    .apple{
+      margin-bottom: -50%;
+    }
+    .btn2 {
+      margin-top: 3%;
+      margin-left: 10%;
+      font-size: 40px;
+      cursor: pointer;
+      display: inline-block;
+    }
+    .always{
+      margin-top: 5%;
+      font-size: 35px;
+    }
+   
+    .contacts{
+      margin-top: -2%;
+      font-size: 80px;
+    }
+    .submit2 {
+    font-size: 40px;
+    margin-left: 45%;
+    }
+    .form-control{
+      font-size: 40px;
+      height: 100%;
+      width: 100%;
+    }
+    .fn
+    {
+      margin-top: 3%;
+      margin-left: 20%;
+    
+    }
+    .join{
+      margin-left: 15%;
+      font-size: 65px;
+    }
+    .care,
+    .care1,
+    .care2, 
+  .care3 {
+    margin-top: 7%;
+   margin-left: -28%;
+    font-size: 30px;
+  }
+  
+  .h {
+    margin-left: -28%;
+    font-size: 30px;
+  
+  }
+  .news{
+    width:30%;font-size: 40px; margin-left: 30%;
+  }
+  .submit{
+    height: 75px;width:12%;font-size: 30px;
+  }
+  .copy{
+    color: white;margin-left:25%; margin-top:2%;font-size:35px;
+  }
+}*/
+
+/*@media (min-width:1200px) and (max-width:1600px){
+  .search-bar{
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid rgb(22, 22, 22);
+    float: left;
+    background: #e6dfdf;
+    margin-top: -18%;
+    width:22%;
+    height: 0%;
+    margin-left: 64%;
+    margin-top: -160px;
+  }
+  .search{
+    float: right;
+    padding: 0px;
+    
+   background: #039e31;
+   color: white;
+   font-size: 8px;
+   border: 1px gray;
+   border-left: none;
+   cursor: pointer;
+   height: 4%;
+    width:4%;
+   margin-right: 10%;
+    margin-top: -160px;
+  }
+  .search:hover{
+    background: #036120;
+  }
+  .bar1 {
+    margin-left: 12%;
+    margin-top: 0%;
+    font-size: 25px;
+  }
+  .bar2,
+  .bar3,
+  .bar4,.bar5 {
+    margin-left: 1%;
+    margin-top: 0%;
+    font-size: 25px;
+  }
+  .apple{
+    margin-bottom: -3%;
+  }
+  .care,
+.care1,
+.care2,
+.care3 {
+  color: white;
+  margin-top: 5%;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  margin-left: -6%;
+  font-size: 18px;
+}
+
+.h {
+  color: white;
+  margin-top: 4%;
+  font-size: 11px;
+  margin-left: -6%;
+}
+}*/
+
+
+
+
+
+@media (min-width:1025px) and (max-width:1200px)
+{
+  .search-bar{
+    display: none;
+  }
+  .search{
+    display: none;
+  }
+  .bar1 {
+    margin-left: 23%;
+    margin-top: -1%;
+    font-size: 27px;
+  }
+  .bar2,
+  .bar3,
+  .bar4,.bar5 {
+    margin-left: 3%;
+    margin-top: -1%;
+    font-size: 27px;
+  }
+  .food1{
+    margin-left: 4%; width:40% 
+ 
+  }
+  .home {
+  margin-top: -27%;
+
+   }
+   .btn8{
+   font-size: 24px;
+  }
+  .trend {
+
+    margin-top: 10%;
+    font-size: 42px;
+  }
+  .be{
+    color: red;  font-size: 25px;margin-left: 40%;
+  }
+  .card{
+    height: 85%;
+ 
+  }
+  .btn {
+margin-top: -2%;
+    margin-left: 45%;
+    font-size: 25px;
+  }
+  .wlc {
+    margin-top: 6%;
+    margin-left: 25%;
+    font-size: 30px;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  }
+  .img1 {
+    width: 280px;
+    height: 220px;
+    margin-top: 9%;
+    margin-left: 1%;
+  }
+  .req{
+  
+    margin-top:3%;
+    margin-left:5px;
+    font-size:25px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  
+  .mat1{
+    margin-left:0%;font-size:23px;
+    margin-right: 17%;
+  }
+  .store {
+    font-size: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 4%;
+    margin-left: 40%;
+  }
+  .ur{
+    color: green;font-size:25px;margin-top:1%;margin-left:40%;
+  }
+.fn{
+  font-size: 30px;
+}
+  .always{
+    margin-top: 5%;
+    font-size: 20px;
+  }
+ 
+  .contacts{
+    margin-top: -2%;
+  }
+  .submit2 {
+  font-size: 30px;
+  margin-left: 45%;
+  }
+  .good {
+    margin-top: -50%;
+   
+    font-size: 52px;
+  }
+  .good1 {
+    font-size: 33px;
+    margin-left: 3%;
+  }
+  .img{
+    height:105%; width:100%;margin-top: 1%;
+  }
+  
+  .join{
+    margin-left: 29%;
+  }
+  .care,
+  .care1,
+  .care2, 
+.care3 {
+  margin-top: 7%;
+ margin-left: -25%;
+  font-size: 23px;
+}
+
+.h {
+  margin-left: -25%;
+  font-size: 20px;
+
+}
+.news{
+  width:30%;font-size: 20px; margin-left: 35%;
+}
+.submit{
+  height: 39px;width:7%;font-size: 18px;
+}
+.btn1{
+  font-size: 20px;
+  margin-top: -2%;
+}
+.btn {
+  margin-top: 0%;
+
+  font-size: 25px;
+  margin-left: 42%;
+}
+}
+
+/****************/
+
+
+@media (min-width:769px) and (max-width:1024px)
+{
+  .search-bar{
+    display: none;
+  }
+  .search{
+    display: none;
+}
+.organic {
+ font-size: 43px;
+ margin-top: 2%;
+}
+.bar1 {
+  margin-left: 5%;
+  margin-top: 2%;
+  font-size: 24px;
+
+}
+.bar2,
+.bar3,
+.bar4 {
+  margin-left: 1%;
+  margin-top: 2%;  font-size: 25px;
+}
+.bar5 {
+  margin-left: 1%;
+  margin-top: 2%;  font-size: 25px;
+ 
+}
+.food1{
+  margin-left: -3%; width:45% ;
+  margin-top: 1%;
+ 
+}
+.home {
+  margin-top: -35%;
+  margin-left: 57%;
+  
+   }
+   .nature {
+    font-size: 43px;
+    
+}
+.eat {
+  margin-left: 37%;
+  margin-top: 2%;
+ 
+  
+}
+.nat{
+  font-size: 30px;
+  margin-left: 37%;
+  
+  }
+  .btn8{
+    font-size: 28px;
+    margin-left: 62%;
+   
+   }
+   .card{
+    height: 80%;
+    padding: 4px;
+    margin-top: -7%;
+    width: 110%;
+    margin-left: -50%;
+   
+ }
+ 
+ .pic1{
+  padding-top: -10px;
+ 
+ 
+ }
+ .column{
+  margin-left: 7%;
+ 
+}
+.column1,.column2 {
+
+  width: 15%;
+  padding: 0 4px;
+  margin-left: 7%;
+  margin-top: -4%;
+ 
+}
+.columns{
+  width: 15%;
+  padding: 0 4px;
+  margin-left: 7%;
+  margin-top: 10%;
+
+}
+ 
+ .btn1{
+  font-size: 15px;
+
+}
+.btn {
+  margin-top: -4%;
+ font-size: 25px;
+  margin-left: 35%;
+
+}
+.wlc {
+  margin-top: 3%;
+  margin-left: 5%;
+  font-size: 30px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  
+}
+.img1 {
+  width: 300px;
+  height: 220px;
+  margin-top: 3%;
+  margin-left: 25%;
+  
+}
+.be{
+  color: red;  font-size: 28px;margin-left: 30%;
+ 
+}
+.req{
+  margin-top:2%;
+  margin-left:25%;
+  font-size:25px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.mat1{
+  margin-left:15%;font-size:23px;
+  margin-right: 17%;
+}
+
+
+.always{
+  margin-top: 5%;
+  font-size: 20px;
+}
+
+.store {
+  font-size: 60px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 4%;
+  margin-left: 33%;
+}
+.ur{
+  color: green;font-size:25px;margin-top:1%;margin-left:33%;
+}
+.img{
+  height:105%; width:100%;margin-top: 1%;
+  margin-left: 0%;
+}
+.good {
+  margin-top: -57%;
+ 
+  font-size: 42px;
+}
+.good1 {
+  font-size: 30px;
+  margin-left: 2%;
+}
+.contacts{
+  margin-top: 5%;
+  margin-left: -8%;
+}
+.fn{
+  margin-top: 3%;
+  margin-left: 8%;
+    }
+    .always{
+      margin-left: -5%;
+      margin-top: 0%;
+      font-size: 24px;
+    }
+    .form-control{
+      font-size: 20px;
+      width: 80%;
+    }
+    .submit2 {
+      font-size: 30px;
+      margin-left: 38%;
+      margin-top: 4%;
+      margin-bottom: -4%;
+      }
+      .join{
+        margin-left: 20%;
+      }
+      .news{
+        width:35%;font-size: 20px; margin-left: 28%;
+      }
+      .submit{
+        height: 39px;width:10%;font-size: 18px;
+        margin-left: -3%;
+      }
+      .care,
+      .care1,
+      .care2, 
+    .care3 {
+      margin-top: 7%;
+     margin-left: -5%;
+      font-size: 23px;
+    }
+    
+    .h {
+      margin-left: -5%;
+      font-size: 20px;
+    
+    }
+    .copy{
+      margin-left: 20%;
+      font-size: 23px;
+      margin-top: 2%;
+    }
+}
+
+
+
+@media (min-width:481px) and (max-width:768px)
+{
+  
+    .search-bar{
+      display: none;
+    }
+    .search{
+      display: none;
+  }
+  .organic {
+   font-size: 40px;
+   margin-top: 2%;
+  }
+  .bar1 {
+    margin-left: 0%;
+    margin-top: 2%;
+    font-size: 17px;
+  }
+  .bar2,
+  .bar3,
+  .bar4,.bar5 {
+    margin-left: -1%;
+    margin-top: 2%;  font-size: 17px;
+  }
+  .food1{
+    margin-left: 13%; width:70% ;
+    margin-top: 1%;
+  }
+  .home {
+   display: none;
+     }
+     .nature {
+    display: none;
+  }
+  .eat {
+    margin-left: 10%;
+    margin-top: 1%;
+    font-size: 25px;
+  }
+  .nat{
+    display: none;
+    }
+    .btn8{
+      font-size: 25px;
+      margin-left: 50%;
+     }
+     .trend {
+margin-left: 1%;
+      margin-top: 9%;
+      font-size: 30px;
+    }
+    .be{
+      color: red;  font-size: 20px;margin-left: 25%;
+    }
+    .card{
+      height: 60%;
+      padding: 2px;
+      margin-top: 10%;
+      width: 120%;
+      margin-left: -35%;
+   }
+   .btn {
+    margin-top: -30%;
+   font-size: 20px;
+    margin-left: 35%;
+  }
+  .wlc {
+    margin-top: 3%;
+    margin-left: 1%;
+    font-size: 20px;
+   
+  }
+  .img1 {
+    width: 340px;
+    height: 260px;
+    margin-top: 3%;
+    margin-left: 10%;
+  }
+  .req{
+    margin-top:2%;
+    margin-left:10%;
+    font-size:20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  
+  .mat1{
+    margin-left:15%;font-size:20px;
+    margin-left: 10%;
+  }
+  .column{
+    margin-left: 7%;
+  }
+  .column1 {
+ 
+    width: 15%;
+    padding: 0 4px;
+    margin-left: 7%;
+    margin-top: 0%;
+    margin-bottom: -15%;
+  }
+  .columns{
+    width: 15%;
+    padding: 0 4px;
+    margin-left: 7%;
+    margin-top: 9%;
+    margin-bottom: -25%;
+  }
+  .column2 {
+display: none;
+  }
+.store {
+    font-size: 45px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 5%;
+    margin-left: 33%;
+  }
+  .ur{
+    color: green;font-size:23px;margin-top:2%;margin-left:28%;
+  }
+  /*.img{
+    height:80%; width:120%;margin-top: 1%;
+    margin-left: 0%;
+    margin-bottom: -200%;
+  }*/
+  .img{
+    display: none;
+  }
+  .apple{
+    background-color: rgb(164, 167, 167);
+    margin-bottom: -95%;
+    margin-top: -10%;
+  }
+  .good {
+    margin-top: 4%;
+   margin-left: 4%;
+    font-size: 40px;
+  }
+  .good1 {
+    font-size: 30px;
+    margin-left: 10%;
+  }
+  .btn2 {
+    margin-top: 5%;
+    margin-left: 35%;
+    font-size: 20px;
+    cursor: pointer;
+    display: inline-block;
+  }
+  .contacts{
+    margin-top: -9%;
+    margin-left: 5%;
+  }
+  .always{
+    margin-left: 2%;
+    margin-top: 0%;
+    font-size: 20px;
+  }
+  .fn{
+    margin-top: 5%;
+    margin-left: 15%;
+      }
+      .form-control{
+        font-size: 20px;
+        width: 70%;
+      }
+      .submit2 {
+        font-size: 25px;
+        margin-left: 40%;
+        margin-top: 4%;
+        margin-bottom: -5%;
+        }
+        .join{
+          margin-left: 10%;
+          font-size:25px;
+        }
+        .news{
+          width:35%;font-size: 20px; margin-left: 17%;
+        }
+        .submit{
+          height: 39px;width:20%;font-size: 18px;
+          margin-left: 0%;
+        }
+        .care,
+        .care1,
+        .care2, 
+      .care3 {
+        margin-top: 7%;
+       margin-left: -5%;
+        font-size: 20px;
+      }
+      
+      .h {
+        margin-left: -5%;
+        font-size: 18px;
+      
+      }
+      .copy{
+        margin-left: 15%;
+        font-size: 15px;
+        margin-top: 2%;
+      }
+}
+
+
+@media (min-width:320px) and (max-width:480px){
+  .search-bar{
+    display: none;
+  }
+  .search{
+    display: none;
+}
+.organic {
+ font-size: 35px;
+ margin-top: 2%;
+ margin-left: 20%;
+ 
+}
+.bar1 {
+  margin-left: 2%;
+  margin-top: 2%;
+  font-size: 15px;
+ 
+}
+.bar2,.bar3
+ {
+  margin-left: 0%;
+  margin-top: 2%;  font-size: 15px;
+}
+.bar4{
+  margin-left: 15%;
+  margin-top: 0%;  font-size: 15px;
+}
+.bar5{
+  margin-left: 8%;margin-top: 0%;  font-size: 17px;
+}
+.food1{
+  margin-left: 5%; width:72% ;
+  margin-top: 1%;}
+
+.home,.nature,.nat {
+ display: none;
+   }
+ 
+.eat {
+  margin-left: 10%;
+  margin-top: 1%;
+  font-size: 18px;
+}
+ .btn8{
+    font-size: 16px;
+    margin-left: 50%; 
+   }
+   .trend {
+    margin-left: -1%;
+          margin-top: 9%;
+          font-size: 20px;
+        }
+        .be{
+          color: red;  font-size: 13px;margin-left: 21%;
+        }
+        .card{
+          height: 48%;
+          padding: 2px;
+          margin-top: 10%;
+          width: 160%;
+          margin-left: -40%;
+        }
+        .column{
+          margin-left: 5%;
+          margin-bottom: -40%;
+        }
+       .btn {
+        margin-top: -50%;
+       font-size: 13px;
+        margin-left: 30%;
+        margin-bottom: -30%;
+  }
+  .wlc {
+    margin-top: 3%;
+    margin-left: -1%;
+    font-size: 12px;
+   
+  }
+  .img1 {
+    width: 250px;
+    height: 200px;
+    margin-top: 3%;
+    margin-left: 3%;
+  }
+  .req{
+    margin-top:2%;
+    margin-left:3%;
+    font-size:13px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  
+  .mat1{
+    margin-left:15%;font-size:12px;
+    margin-left: 3%;
+  }
+  .store {
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 5%;
+    margin-left: 28%;
+  }
+  .ur{
+    color: green;font-size:15px;margin-top:2%;margin-left:25%;
+  }
+  .column1 {
+ 
+    width: 15%;
+    padding: 1px 4px;
+    margin-left: 5.5%;
+    margin-top: 0%;
+    margin-bottom: -45%;
+  }
+  .columns{
+    width: 15%;
+    padding: 0 4px;
+    margin-left: 5%;
+    margin-top: 9%;
+    margin-bottom: -45%;
+  }
+  .column2 {
+display: none;
+  }
+
+  .img{
+    display: none;
+  }
+  .apple{
+    background-color: rgb(164, 167, 167);
+    margin-bottom: -75%;
+    margin-top: -10%;
+  }
+  .good {
+    margin-top: 4%;
+   margin-left: 3%;
+    font-size: 25px;
+  }
+  .good1 {
+    font-size: 20px;
+    margin-left: 8%;
+  }
+  .btn2 {
+    margin-top: 5%;
+    margin-left: 28%;
+    font-size: 18px;
+    cursor: pointer;
+    display: inline-block;
+  }
+  .contacts{
+    font-size: 25px;
+    margin-top: -12%;
+    margin-left: -4%;
+  }
+  .always{
+    margin-left: -5%;
+    margin-top: 0%;
+    font-size: 14px;
+  }
+  .fn{
+    margin-top: 5%;
+    margin-left: 12%;
+      }
+      .form-control{
+        font-size: 15px;
+        width: 90%;
+        height: 80%;
+        margin-left: -15%;
+      }
+      .submit2 {
+        font-size: 18px;
+        margin-left: 35%;
+        margin-top: 5%;
+        margin-bottom: -7%;
+        }
+        .join{
+          margin-left: 5%;
+          font-size:18px;
+        }
+        .news{
+          width:35%;font-size: 15px; margin-left: 18%;
+        }
+        .submit{
+          height: 30px;width:20%;font-size: 15px;
+          margin-left: -1%;
+        }
+
+        .care,
+        .care1,
+        .care2, 
+      .care3 {
+        margin-top: 7%;
+       margin-left: -5%;
+        font-size: 15px;
+      }
+      
+      .h {
+        margin-left: -5%;
+        font-size: 10px;
+      
+      }
+      .copy{
+        margin-left: 15%;
+        font-size: 10px;
+        margin-top: 2%;
+      }
+      .a{
+font-size: 12px;
+      }
+}
+
